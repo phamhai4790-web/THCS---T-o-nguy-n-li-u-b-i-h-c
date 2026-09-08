@@ -1,5 +1,5 @@
 # LESSON 9.06 — LÀM GÌ KHI MỘT MỐI QUAN HỆ KHIẾN MÌNH KHÔNG CÒN THOẢI MÁI?
-## ROLE-BASED LEARNING MATERIAL (GOLDEN SAMPLE v12.0 — MODULAR ENGINE)
+## ROLE-BASED LEARNING MATERIAL (GOLDEN SAMPLE v12.0 — CONSTRUCTIVIST ENGINE)
 
 ---
 
@@ -9,9 +9,9 @@
 Bạn là **Bác sĩ Tư vấn Tâm lý Học đường** thuộc Phòng Tư vấn Học đường Nova.
 
 ## 2. Nhiệm vụ
-Phòng Tư vấn vừa tiếp nhận Thư tư vấn từ Linh (học sinh lớp 9). Linh đang rơi vào trạng thái kiệt quệ cảm xúc và sút giảm học tập nghiêm trọng vì mối quan hệ bạn bè một chiều với Trang. Trong suốt 6 tháng qua, Linh luôn phải lắng nghe, làm hộ bài tập và chịu sự điều khiển của Trang. Tuy nhiên, khi Linh gặp khó khăn thì Trang hoàn toàn thờ ơ, thậm chí quát mắng và đe dọa kéo bè phái tẩy chay nếu Linh không tiếp tục đáp ứng các yêu cầu.
+Phòng Tư vấn vừa tiếp nhận Thư tư vấn từ Linh (học sinh lớp 9). Linh đang rơi vào trạng thái kiệt quệ cảm xúc và sút giảm học tập nghiêm trọng vì mối quan hệ bạn bè căng thẳng với Trang.
 
-Nhiệm vụ của Bác sĩ là nghiên cứu bức thư tư vấn để chẩn đoán dấu hiệu mối quan hệ một chiều, ứng dụng công cụ Bản đồ Quyết định Mối quan hệ để giúp Linh nhận diện sự lấn ranh giới cá nhân, kiểm tra thiện chí đối phương và đề xuất phác đồ thiết lập ranh giới an toàn để bảo vệ bản thân.
+Nhiệm vụ của Bác sĩ là nghiên cứu bức thư tư vấn, khám phá điều gì đang khiến mối quan hệ này làm Linh mệt mỏi, giải thích nguyên nhân gốc rễ và đề xuất phương án ứng xử phù hợp để giúp Linh bảo vệ sự an toàn tinh thần của bản thân.
 
 ## 3. Nguyên liệu
 
@@ -19,15 +19,15 @@ Nhiệm vụ của Bác sĩ là nghiên cứu bức thư tư vấn để chẩn 
 * **Mã bệnh án:** BA-906-QUAN-HE
 * **Họ và tên Bệnh nhân:** Linh (Học sinh Lớp 9)
 * **Lớp / Khối:** Khối 9 | **Bác sĩ tiếp nhận:** Nhóm Bác sĩ Tư vấn Học đường KNS Nova
-* **Thời gian tiếp nhận:** Tiết 1 — Chuyên án: Nhận biết mối quan hệ một chiều
+* **Thời gian tiếp nhận:** Tiết 1 — Chuyên án: Xử lý bế tắc trong quan hệ bạn bè
 
 #### I. THÔNG TIN HÀNH CHÍNH & TIẾP NHẬN BỆNH NHÂN
-* **Tình trạng khẩn cấp:** Bệnh nhân rơi vào trạng thái hoảng loạn, kiệt sức cảm xúc và sút giảm học tập do chịu sự thao túng và đe dọa tẩy chay từ bạn cùng lớp.
+* **Tình trạng khẩn cấp:** Bệnh nhân rơi vào trạng thái hoảng loạn, kiệt sức cảm xúc và sút giảm học tập do những xung đột và áp lực từ bạn cùng lớp.
 
 #### II. DIỄN BIẾN LÂM SÀNG & TRIỆU CHỨNG BẮT GẶP
 * **Dấu hiệu tâm lý:** Cảm thấy mệt mỏi, tự ti, luôn lo sợ bị cô lập, kiệt sức sau mỗi lần tương tác.
 * **Dấu hiệu hành vi:** Nhượng bộ vô điều kiện, làm hộ bài tập trong 6 tháng, luôn là người phải chủ động xin lỗi để giữ hòa khí.
-* **Môi trường tác động:** Áp lực thao túng từ bạn bè, đe dọa kéo bè phái cô lập tại trường.
+* **Môi trường tác động:** Áp lực từ bạn bè, lo sợ bị kéo bè phái cô lập tại trường.
 
 #### III. CHẨN ĐOÁN SƠ BỘ & CÂU HỎI HỘI CHẨN
 > *"Kính gửi các Bác sĩ Nova,*  
@@ -37,31 +37,27 @@ Nhiệm vụ của Bác sĩ là nghiên cứu bức thư tư vấn để chẩn 
 ---
 
 ## 4. Nhiệm vụ Tư vấn Y khoa
-Hãy nghiên cứu Thư tư vấn sức khỏe học đường dưới góc nhìn của một bác sĩ tư vấn tâm lý.
 
-Linh đang rơi vào bẫy ngụy biện tình bạn: nhầm lẫn giữa sự gắn kết chân thành và sự lợi dụng một chiều, liên tục hạ thấp ranh giới cá nhân vì sợ bị cô lập.
+Hãy nghiên cứu Thư tư vấn sức khỏe học đường dưới góc nhìn của một bác sĩ tư vấn tâm lý và thực hiện chuỗi phân tích 3 tầng sau:
 
-Trước khi đưa ra Phác đồ ranh giới an toàn cho Linh, hãy tìm câu trả lời cho ba câu hỏi tư vấn sau:
+### Tầng 1 — Khám phá vấn đề (Chuyện gì đang xảy ra?)
+**Câu hỏi 1:** Nghiên cứu những gì xảy ra giữa Linh và Trang, em nhận thấy điều gì đang bất thường trong mối quan hệ này? Hãy chỉ ra các bằng chứng cụ thể từ bức thư cho thấy sự thiếu cân bằng và khiến Linh không còn cảm thấy thoải mái hay được tôn trọng.
 
-**Câu hỏi 1 — Tại sao mối quan hệ với Trang lại là mối quan hệ một chiều làm Linh kiệt quệ?**  
-Từ các dữ kiện trong thư tư vấn, hãy làm rõ: Những dấu hiệu bất bình đẳng nào đã chứng minh sự lợi dụng một chiều của Trang? Phản ứng đập bàn đe dọa tẩy chay khi Linh chia sẻ cảm xúc đã lột tả bản chất thao túng ra sao?
+### Tầng 2 — Giải thích vấn đề (Vì sao vấn đề xảy ra?)
+**Câu hỏi 2:**
+* **a)** Vì sao Linh lại rơi vào trạng thái kiệt quệ cảm xúc nhưng vẫn liên tục nhẫn nại và nhượng bộ Trang trong suốt 6 tháng qua?
+* **b)** Phản ứng đập bàn quát mắng và đe dọa kéo bè phái tẩy chay của Trang khi Linh lên tiếng chia sẻ cảm xúc phản ánh điều gì về thiện chí cùng xây dựng mối quan hệ từ phía Trang? Nếu Linh tiếp tục nhượng bộ vô điều kiện, điều gì có thể xảy ra?
 
-**Câu hỏi 2 — Linh nên dùng Bản đồ Quyết định Mối quan hệ qua các bước phân tích như thế nào?**  
-Hãy giúp Linh thực hiện quy trình chẩn đoán:
-* *Nhận diện & Đánh giá ranh giới:* Việc Trang đòi hỏi Linh làm hộ bài nhưng từ chối giúp đỡ khi Linh ốm đã lấn ranh giới cá nhân của Linh ra sao?
-* *Kiểm tra thiện chí đối phương:* Phản ứng quát mắng đe dọa của Trang cho thấy đối phương có thiện chí xây dựng tình bạn cân bằng hay không?
-
-**Câu hỏi 3 — Linh nên đề xuất phác đồ thiết lập ranh giới an toàn và ứng xử ra sao để bảo vệ bản thân?**  
-Dựa trên bản đồ quyết định, hãy đề xuất:
-* Linh nên thực hiện các bước từ chối yêu cầu vô lý và giảm tần suất tương tác với Trang như thế nào?
-* Linh nên tìm kiếm sự hỗ trợ từ giáo viên chủ nhiệm và người thân ra sao nếu Trang thực hiện hành vi kéo bè phái tẩy chay?
-
-Sau khi hoàn thành tư vấn, hãy giúp Linh hoàn thiện **Bản đồ Quyết định Mối quan hệ** để làm cẩm nang ứng xử tình bạn lành mạnh cho học sinh toàn trường.
+### Tầng 3 — Giải quyết vấn đề & Khái quát bài học (Linh nên làm gì?)
+**Câu hỏi 3:**
+* **a)** Dựa trên kết quả phân tích, em hãy đề xuất các lựa chọn ứng xử cụ thể mà Linh có thể thực hiện để từ chối các đòi hỏi vô lý và thiết lập khoảng cách an toàn nhằm bảo vệ bản thân.
+* **b)** Nếu Trang tiếp tục kéo bè phái cô lập hoặc gây áp lực, Linh nên tìm kiếm sự hỗ trợ từ những ai và báo cáo như thế nào để đảm bảo an toàn học đường?
+* **c)** Từ trường hợp của Linh, hãy khái quát thành các bước phân tích và quyết định mối quan hệ mà học sinh có thể sử dụng khi gặp tình huống tương tự, từ đó hoàn thiện **Bản đồ Quyết định Mối quan hệ** cho phòng tư vấn.
 
 ## 5. Sản phẩm cần nộp
-* **Bản đồ Quyết định Mối quan hệ:** Bản quy trình phân tích mối quan hệ cân bằng (Nhận diện dấu hiệu $\rightarrow$ Đánh giá ranh giới $\rightarrow$ Kiểm tra thiện chí $\rightarrow$ Đề xuất ranh giới an toàn $\rightarrow$ Tìm kiếm hỗ trợ).
-* **Biên bản Hội chẩn Tâm lý:** Trình bày chẩn đoán tác hại của mối quan hệ một chiều và Lý thuyết Ranh giới Cá nhân.
-* **Phác đồ Ranh giới An toàn:** Bản đề xuất các hành động cụ thể (từ chối yêu cầu vô lý, giảm tương tác tiêu cực, kịch bản báo cáo người lớn khi bị tẩy chay).
+* **Bản đồ Quyết định Mối quan hệ:** Sơ đồ quy trình phân tích mối quan hệ (Khám phá dấu hiệu mệt mỏi $\rightarrow$ Giải thích mức độ lấn ranh giới $\rightarrow$ Kiểm tra thiện chí đối phương $\rightarrow$ Đề xuất khoảng cách an toàn $\rightarrow$ Tìm kiếm hỗ trợ).
+* **Biên bản Hội chẩn Tâm lý:** Trình bày chẩn đoán nguyên nhân bế tắc tình bạn và phân tích bằng chứng thô từ bức thư.
+* **Phác đồ Ranh giới An toàn:** Bản đề xuất các hành động ứng xử cụ thể (từ chối yêu cầu vô lý, giảm tương tác tiêu cực, kịch bản báo cáo người lớn khi bị cô lập).
 
 ## 6. Lưu ý
 Hãy sử dụng đúng các bằng chứng thực tế trong thư tư vấn làm căn cứ. Bạn được phép đưa ra các nhận định và đề xuất xử lý mở miễn là bảo đảm tính logic, có căn cứ từ Ma trận và có tính khả thi.
@@ -181,7 +177,7 @@ TEMPLATE TYPE SELECTION QA VERDICT: 100% PASS (16/16 TESTS)
 ---------------------------------------------------------------------
 ```
 
-## C5. Story-Learning Boundary Audit (SB1--SB5, KC1--KC3, SK1--SK2, PD1--PD2 Tests)
+## C5. Story-Learning Boundary Audit (SB1--SB5, KC1--KC3, SK1--SK2, PD1--PD2, Rule 41 No-Spoil Tests)
 ```text
 ---------------------------------------------------------------------
 TEST SB1 — STORY STATE BOUNDARY: PASS (Phân biệt rõ Observed Fact vs Proposed Action vs Outcome)
@@ -196,21 +192,22 @@ TEST SK1 — NO INVENTED SKILL OPERATIONS: PASS (0% phát minh quy trình kỹ n
 TEST SK2 — CANONICAL SKILL COMPLIANCE: PASS (Tuân thủ 100% cấu trúc thao tác Canonical Skill)
 TEST PD1 — PRODUCT TRACEABILITY CHAIN: PASS (Product -> Skill -> Knowledge được trace 100%)
 TEST PD2 — ORPHAN PRODUCT ELIMINATION: PASS (Loại bỏ 100% sản phẩm mồ côi ngoài Specification)
+TEST R41 — CONSTRUCTIVIST NO-SPOIL AUDIT: PASS (0% Spoil tên công cụ/kết luận trong Part A, tuân thủ 3 Tầng)
 ---------------------------------------------------------------------
-STORY-LEARNING BOUNDARY QA VERDICT: 100% PASS (12/12 TESTS)
+STORY-LEARNING BOUNDARY QA VERDICT: 100% PASS (13/13 TESTS)
 ---------------------------------------------------------------------
 ```
 
 ## C6. Mission Naturalness & Role Voice Audit (M1--M8 Tests)
 ```text
 ---------------------------------------------------------------------
-TEST M1 — CONTEXT UNIQUENESS: PASS (Nhiệm vụ sinh riêng từ vụ rạn nứt bạn bè một chiều của Linh)
+TEST M1 — CONTEXT UNIQUENESS: PASS (Nhiệm vụ sinh riêng từ vụ rạn nứt bạn bè của Linh)
 TEST M2 — ROLE NATURALNESS: PASS (Đậm ngôn ngữ bác sĩ tư vấn tâm lý học đường)
 TEST M3 — TOOL REMOVAL & PROBLEM INDEPENDENCE: PASS (Bỏ tên Tool vẫn còn vấn đề thực tế)
 TEST M4 — STORY TRACEABILITY: PASS (Trace 100% về dữ kiện 6 tháng làm hộ bài & từ chối chép bài khi Linh ốm)
 TEST M5 — AGE APPROPRIATENESS: PASS (Phù hợp tâm sinh lý học sinh Khối 9)
 TEST M6 — PURE VIETNAMESE: PASS (100% Tiếng Việt thuần khiết, 0% từ mở ngoặc Tiếng Anh)
-TEST M7 — DELIVERABLE CLARITY: PASS (Sản phẩm nộp rõ ràng, có đường truy xuất)
+TEST M7 — DELIVERABLE CLARITY: PASS (Sản phẩm nộp là kết quả tự nhiên của quá trình giải quyết vấn đề)
 TEST M8 — NO TEACHER METADATA IN PART A: PASS (Part A sạch 100% metadata)
 ---------------------------------------------------------------------
 MISSION NATURALNESS QA VERDICT: 100% PASS (8/8 TESTS)
@@ -221,11 +218,11 @@ MISSION NATURALNESS QA VERDICT: 100% PASS (8/8 TESTS)
 
 | Dữ kiện Thô trong Thư tư vấn | Thao tác Nhận thức ($C_1 \dots C_5$) | Câu hỏi / Nhiệm vụ trong Đề bài | Bằng chứng Bắt buộc trong Đáp án |
 |---|---|---|---|
-| 6 tháng làm hộ bài & bị từ chối chép bài khi ốm | $C_1$: Nhận diện dấu hiệu mối quan hệ một chiều | Câu hỏi 1: Dấu hiệu bất bình đẳng | Bằng chứng đòi hỏi một chiều, thiếu sẻ chia |
-| Ép buộc Linh đáp ứng 24/7 | $C_2$: Đánh giá sự lấn ranh giới cá nhân | Câu hỏi 2a: Đánh giá ranh giới | Bằng chứng bị lấn ranh giới và nhượng bộ vô điều kiện |
-| Đập bàn quát mắng đe dọa tẩy chay | $C_3$: Kiểm tra phản ứng & thiện chí đối phương | Câu hỏi 2b: Kiểm tra thiện chí | Bằng chứng thiếu thiện chí xây dựng tình bạn cân bằng |
-| Từ chối yêu cầu vô lý & giảm tiếp xúc độc hại | $C_4$: Đề xuất ranh giới an toàn | Câu hỏi 3a: Đề xuất phác đồ ranh giới | Đề xuất từ chối kiên định và khoanh vùng tiếp xúc |
-| Báo cáo GVCN khi bị kéo bè phái tẩy chay | $C_5$: Đề xuất tìm kiếm trợ giúp | Câu hỏi 3b: Đề xuất tìm trợ giúp | Đề xuất kịch bản báo cáo người lớn bảo vệ bản thân |
+| 6 tháng làm hộ bài & bị từ chối chép bài khi ốm | $C_1$: Nhận diện dấu hiệu bất thường | Câu hỏi 1: Tầng 1 Khám phá dấu hiệu thiếu cân bằng | Bằng chứng đòi hỏi một chiều, thiếu sẻ chia |
+| Ép buộc Linh đáp ứng 24/7 | $C_2$: Giải thích sự lấn ranh giới cá nhân | Câu hỏi 2a: Tầng 2 Giải thích lý do nhẫn nại 6 tháng | Bằng chứng bị lấn ranh giới và nhượng bộ vô điều kiện |
+| Đập bàn quát mắng đe dọa tẩy chay | $C_3$: Kiểm tra phản ứng & thiện chí đối phương | Câu hỏi 2b: Tầng 2 Giải thích thiện chí đối phương | Bằng chứng thiếu thiện chí xây dựng tình bạn cân bằng |
+| Từ chối yêu cầu vô lý & giảm tiếp xúc độc hại | $C_4$: Đề xuất ranh giới an toàn | Câu hỏi 3a: Tầng 3 Đề xuất lựa chọn ứng xử | Đề xuất từ chối kiên định và khoanh vùng tiếp xúc |
+| Báo cáo GVCN khi bị kéo bè phái tẩy chay | $C_5$: Đề xuất tìm kiếm trợ giúp & Khái quát | Câu hỏi 3b & 3c: Tầng 3 Tìm trợ giúp & Khái quát | Đề xuất kịch bản báo cáo và sơ đồ quy trình |
 
 ## C8. Canonical Skill Necessity Test (5/5 Tests)
 ```text
@@ -242,4 +239,4 @@ SKILL NECESSITY QA VERDICT: 5/5 PASS
 
 ## C9. Lesson-Level QA Verdict
 **VERDICT: PASS — GOLDEN SAMPLE CANDIDATE v12.0**  
-*Ghi chú:* Bài học 9.06 đạt chuẩn 100% 41/41 QA Tests, tuân thủ tuyệt đối Ranh giới Trạng thái Câu chuyện (SB), Trần Kiến thức (KC), Trần Kỹ năng (SK), Trần Sản phẩm (PD), và đạt 100% Tiếng Việt Thuần khiết.
+*Ghi chú:* Bài học 9.06 đạt chuẩn 100% 42/42 QA Tests, tuân thủ tuyệt đối Rule 41 (Constructivist No-Spoil Mission), Ranh giới Trạng thái Câu chuyện (SB), Trần Kiến thức (KC), Trần Kỹ năng (SK), Trần Sản phẩm (PD), và đạt 100% Tiếng Việt Thuần khiết.

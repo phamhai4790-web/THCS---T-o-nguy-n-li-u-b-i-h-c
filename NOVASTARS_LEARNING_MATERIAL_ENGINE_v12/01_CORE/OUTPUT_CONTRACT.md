@@ -1,7 +1,7 @@
 # OUTPUT CONTRACT SPECIFICATION — NOVASTARS v12.0
 
 > **Module Identifier**: `01_CORE/OUTPUT_CONTRACT.md`  
-> **Role**: Hợp đồng Cấu trúc Đầu ra Chuẩn (Output Structure Contract)  
+> **Role**: Hợp đồng Cấu trúc Đầu ra Chuẩn (Output Structure Contract — Constructivist Engine v12.0)  
 > **Precedence Level**: Level 2 Master Specification  
 
 ---
@@ -10,7 +10,7 @@
 
 Mọi bài học được tạo ra bởi `GENERATOR_AGENT` và phê duyệt bởi `QA_AGENT` bắt buộc phải tuân thủ 100% cấu trúc đầu ra gồm 3 phần độc lập:
 
-1. **PART A — ĐỀ BÀI / NHIỆM VỤ HỌC SINH**: 100% Student-Facing, thuần Việt hoàn toàn, 0% metadata, 0% đáp án trước.
+1. **PART A — ĐỀ BÀI / NHIỆM VỤ HỌC SINH**: 100% Student-Facing, thuần Việt hoàn toàn, 0% metadata, 0% đáp án/kết luận trước (No-Spoil Constructivist Mission).
 2. **PART B — MÔ HÌNH LỜI GIẢI SƯ PHẠM**: Dành cho Giáo viên, chứa chuỗi suy luận logic $C_1 \dots C_n$, khung đánh giá E1--E5 và bảng chẩn đoán lỗi.
 3. **INTERNAL QA & METADATA**: Dành cho Hệ thống & Kiểm định, chứa Metadata Provenance C1, Rationale C2, Traceability Matrix C7 và Kết quả Thẩm định C9.
 
@@ -25,16 +25,19 @@ Mọi bài học được tạo ra bởi `GENERATOR_AGENT` và phê duyệt bở
 [Định vị vai trò nhập vai tự nhiên theo Role Specification]
 
 ## 2. Nhiệm vụ
-[Tóm tắt nhiệm vụ học sinh cần giải quyết trong Tiết 1]
+[Tóm tắt nhiệm vụ học sinh cần giải quyết trong Tiết 1 — KHÔNG Spoil trước bẫy tư duy, tên công cụ hay kết luận]
 
 ## 3. Nguyên liệu
 [Instantiate đúng 100% Schema Fingerprint của Dạng Template được chọn từ Registry. Ngôn ngữ 100% Tiếng Việt Thuần Khiết]
 
 ## 4. Nhiệm vụ [Hội chẩn / Điều tra / Chẩn đoán / Biên tập / Kỹ thuật]
-[Question-Driven Mission với văn phong nhập vai tự nhiên, định hình thao tác C4 dưới dạng PROPOSED ACTION của Học sinh]
+[Nhiệm vụ dẫn dắt theo Chuỗi Khám phá Sư phạm 3 Tầng — CẤM SPOIL ĐÁP ÁN:
+ - Tầng 1 (Khám phá vấn đề): Chuyện gì đang xảy ra từ các bằng chứng trong câu chuyện?
+ - Tầng 2 (Giải thích vấn đề): Vì sao vấn đề lại xảy ra? Những yếu tố nào đang tác động?
+ - Tầng 3 (Giải quyết vấn đề): Nhân vật nên làm gì? Đề xuất phương án cụ thể và khái quát bài học.]
 
 ## 5. Sản phẩm cần nộp
-[Danh sách sản phẩm học sinh nộp có đường truy xuất 100% về Canonical Skill. CẤM sản phẩm mồ côi]
+[Danh sách sản phẩm học sinh nộp là KẾT QUẢ TỰ NHIÊN của quá trình giải quyết vấn đề, trace 100% về Canonical Skill]
 
 ## 6. Lưu ý
 [Các lưu ý thực thi quan trọng dành cho học sinh]
@@ -44,7 +47,7 @@ Mọi bài học được tạo ra bởi `GENERATOR_AGENT` và phê duyệt bở
 # PART B — LEARNING ANSWER
 
 ## B1. Expected Discovery
-[Phát hiện bắt buộc học sinh cần rút ra, bám sát C1 -> C4, coi C4 là giải pháp đề xuất]
+[Phát hiện bắt buộc học sinh cần tự rút ra, bám sát C1 -> C4, coi C4 là giải pháp đề xuất]
 
 ## B2. Expected Reasoning
 [Chuỗi suy luận logic chi tiết từng bước: C1 -> C2 -> C3 -> C4]
@@ -82,7 +85,7 @@ Mọi bài học được tạo ra bởi `GENERATOR_AGENT` và phê duyệt bở
 [Kết quả kiểm thử 16 Tests TF1 -- TF16]
 
 ## C5. Story-Learning Boundary Audit
-[Kết quả kiểm thử các ranh giới: SB1--SB5, KC1--KC3, SK1--SK2, PD1--PD2]
+[Kết quả kiểm thử các ranh giới: SB1--SB5, KC1--KC3, SK1--SK2, PD1--PD2, Rule 41 No-Spoil Audit]
 
 ## C6. Mission Naturalness & Role Voice Audit
 [Kết quả kiểm thử 8 Tests M1 -- M8 về văn phong nhập vai và tính tự nhiên]

@@ -1,7 +1,7 @@
 # GLOBAL RULES — MASTER SYSTEM RULES v12.0
 
 > **Module Identifier**: `01_CORE/GLOBAL_RULES.md`  
-> **Role**: Tập hợp Quy tắc Hệ thống Cốt lõi (Master System Rules & Story-Learning Boundaries)  
+> **Role**: Tập hợp Quy tắc Hệ thống Cốt lõi (Master System Rules, Story-Learning Boundaries & Constructivist Engine)  
 > **Precedence Level**: Level 2 Master Specification  
 
 ---
@@ -9,11 +9,19 @@
 ## 1. BỐN RANH GIỚI BẤT BIẾN HỆ THỐNG (STORY-LEARNING BOUNDARIES)
 
 ```text
+CÂU CHUYỆN NGUỒN
+  ↓ (Học sinh phát hiện vấn đề từ bằng chứng)
+HỌC SINH KHÁM PHÁ & GIẢI THÍCH VẤN ĐỀ
+  ↓ (Học sinh suy nghĩ & đề xuất giải pháp)
+TỰ HÌNH THÀNH KIẾN THỨC & KỸ NĂNG NGUỒN
+  ↓ (Khái quát kết quả điều tra)
+SẢN PHẨM HỌC TẬP THỰC TẾ
+
 SOURCE STORY ≠ SOLUTION STORY.
 STORY = OBSERVED / PROBLEM STATE & PRACTICE DATA.
 CANONICAL CONTENT = KNOWLEDGE CEILING.
 CANONICAL SKILL = COGNITIVE OPERATION CEILING.
-MISSION = INVESTIGATION & PROPOSAL.
+MISSION = INVESTIGATION & PROPOSAL (NO-SPOIL DISCOVERY).
 STUDENT = SOLVER / DESIGNER.
 OUTPUT = PROPOSED / AFTER STATE.
 ```
@@ -44,7 +52,7 @@ OUTPUT = PROPOSED / AFTER STATE.
 
 ---
 
-## 2. BẢNG 40 MASTER SYSTEM RULES v12.0
+## 2. BẢNG MASTER SYSTEM RULES v12.0 (INCL. RULE 41 CONSTRUCTIVIST NO-SPOIL MISSION)
 
 | Mã Rule | Tên Quy tắc | Nội dung Bắt buộc & Điều khoản Thi hành |
 |:---|:---|:---|
@@ -88,3 +96,21 @@ OUTPUT = PROPOSED / AFTER STATE.
 | **Rule 38** | `KNOWLEDGE-CONTENT BOUNDARY (KC)` | Canonical Knowledge $\ne$ Story Data. Cấm nâng chi tiết Story thành kiến thức mới. |
 | **Rule 39** | `SKILL BOUNDARY (SK)` | Canonical Skill $\ne$ Story Action. Story không tự tạo Skill mới ngoài Skill Map. |
 | **Rule 40** | `PRODUCT BOUNDARY (PD)` | Student Product $\rightarrow$ Canonical Skill $\rightarrow$ Canonical Knowledge. Cấm sản phẩm mồ côi. |
+| **Rule 41** | `CONSTRUCTIVIST NO-SPOIL MISSION` | Nhiệm vụ Part A phải thiết kế theo chuỗi Khám phá: *Tầng 1 Khám phá Vấn đề $\rightarrow$ Tầng 2 Giải thích Vấn đề $\rightarrow$ Tầng 3 Đề xuất Giải pháp & Khai quát*. CẤM Spoil kết luận, cấm nhắc trước tên công cụ/bẫy tư duy/tên ranh giới trong Part A. |
+
+---
+
+## 3. NGUYÊN TẮC CẤM SPOIL KẾT LUẬN & BỘ ĐỘNG TỪ TRUY VẤN CHUẨN (RULE 41 SPECIFICATION)
+
+### 3.1 Các từ/cụm từ BỊ CẤM TRONG NÓI TRƯỚC Ở PART A (FORBIDDEN SPOILERS)
+- ❌ Cấm: *"để nhận diện mối quan hệ một chiều"*
+- ❌ Cấm: *"để xác định hành vi thao túng"*
+- ❌ Cấm: *"để nhận ra đây là áp lực đồng trang lứa"*
+- ❌ Cấm: *"hãy sử dụng [tên công cụ] để..."*
+- ❌ Cấm: *"hãy xác định ranh giới cá nhân..."*
+- ❌ Cấm: *"hãy áp dụng quy trình..."*
+- ❌ Cấm: *"hãy chẩn đoán..."*
+- ❌ Cấm: *"hãy chứng minh rằng..."*
+
+### 3.2 Bộ Động từ Truy vấn Được phép (APPROVED INQUIRY VERBS)
+- ✅ *tìm hiểu, khám phá, điều tra, phân tích, giải thích, xem xét, đối chiếu, cân nhắc, đề xuất, lựa chọn, xây dựng, đưa ra phương án, khái quát*.
